@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 - https://github.com/quic-s/quics-client
 - https://github.com/KEA-ACCELER
-> A-Form : User, Post, AI
-> A-Log : User, Auth, File, Issue, Aggregator
+  > A-Form : User, Post, AI
+  > A-Log : User, Auth, File, Issue, Aggregator
 - https://github.com/1MENU/Korean_ABSA_model
 - https://github.com/INCLab/inclab-global-id-mapping-tool
 - https://github.com/HarmonyXR/harmonyxr
 - https://github.com/orgs/Friend-for-Modern-people/repositories
-> Server-AI-Flask
-> Frimo_Spring_User 
+  > Server-AI-Flask
+  > Frimo_Spring_User 
