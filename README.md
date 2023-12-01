@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 📚 **Experiences**
+If you are curious about the project I did, please refer to the link below.
 
-- https://github.com/quic-s/quics-client
 - https://github.com/KEA-ACCELER
   > A-Form : User, Post, AI
   > / A-Log : User, Auth, File, Issue, Aggregator
@@ -28,3 +28,14 @@ Here are some ideas to get you started:
 - https://github.com/HarmonyXR/harmonyxr
 - https://github.com/orgs/Friend-for-Modern-people/repositories
   > Server-AI-Flask, Frimo_Spring_User 
+
+🌱 **I’m currently working on...**
+- https://github.com/quic-s/quics-client
+
+  
+
+
+
+
+
+
